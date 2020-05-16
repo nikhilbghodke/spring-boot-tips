@@ -26,7 +26,6 @@ This can be a useful feature when working in an IDE as it gives a very fast feed
 By default, any entry on the classpath that points to a folder will be monitored for changes. 
 
 
-### My automatic restart enable by dev tools will slow down your PC a bit as the server is getting restarted every now and then so use 
-it carefully.
+### My automatic restart enable by dev tools will slow down your PC a bit as the server is getting restarted every now and then so use it carefully.
 
 ### For more info visit [docs.spring.io](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
