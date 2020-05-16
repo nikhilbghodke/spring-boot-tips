@@ -29,4 +29,4 @@ By default, any entry on the classpath that points to a folder will be monitored
 ### My automatic restart enable by dev tools will slow down your PC a bit as the server is getting restarted every now and then so use 
 it carefully.
 
-### for more info visit [docs.spring.io](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
+### For more info visit [docs.spring.io](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
